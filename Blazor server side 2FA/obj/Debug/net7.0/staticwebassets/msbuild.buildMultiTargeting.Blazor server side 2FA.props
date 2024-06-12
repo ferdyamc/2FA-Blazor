@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blazor server side 2FA.props" />
+</Project>

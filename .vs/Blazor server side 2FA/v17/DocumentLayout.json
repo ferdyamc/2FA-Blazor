@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\dae4190b34aa4d385291c8717859cc54edd403b5\\Areas_Identity_Pages_Account_LogOut_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\areas\\identity\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\areas\\identity\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\5cdf4d4fe1bef7483bc985709c87b15279fce030\\Areas_Identity_Pages_Shared__LoginPartial_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\d116d96bc9d92765f71bea7405e9b87de2973633\\_Imports_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\22e97f11c3ddb00379abe17d0cc3c896892b74cc\\Shared_NavMenu_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\e20c93aa241854cefdf6e6b7b81987847d30751a\\Shared_MainLayout_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\4b26b40ff41d7ab377844841b51b73617894c080\\Shared_LoginDisplay_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\f446b93e710cafde07d61746f726e5c6bdf16646\\Pages__Host_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\areas\\identity\\revalidatingidentityauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\areas\\identity\\revalidatingidentityauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|c:\\users\\ferdy\\source\\repos\\blazor server side 2fa\\blazor server side 2fa\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6738AB3C-A6A3-40F0-8D73-2F4443414B69}|Blazor server side 2FA\\Blazor server side 2FA.csproj|solutionrelative:blazor server side 2fa\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "RelativeToolTip": "Blazor server side 2FA\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:25:32.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Blazor server side 2FA\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T22:39:58.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDisplay.razor",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\LoginDisplay.razor",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Shared\\LoginDisplay.razor",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\LoginDisplay.razor",
+              "RelativeToolTip": "Blazor server side 2FA\\Shared\\LoginDisplay.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:30:15.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Blazor server side 2FA\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-26T00:21:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Areas_Identity_Pages_Account_LogOut_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\dae4190b34aa4d385291c8717859cc54edd403b5\\Areas_Identity_Pages_Account_LogOut_cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dae4190b34aa4d385291c8717859cc54edd403b5\\Areas_Identity_Pages_Account_LogOut_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\dae4190b34aa4d385291c8717859cc54edd403b5\\Areas_Identity_Pages_Account_LogOut_cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dae4190b34aa4d385291c8717859cc54edd403b5\\Areas_Identity_Pages_Account_LogOut_cshtml.g.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T00:18:46.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\d116d96bc9d92765f71bea7405e9b87de2973633\\_Imports_razor.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d116d96bc9d92765f71bea7405e9b87de2973633\\_Imports_razor.g.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\d116d96bc9d92765f71bea7405e9b87de2973633\\_Imports_razor.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d116d96bc9d92765f71bea7405e9b87de2973633\\_Imports_razor.g.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T00:18:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\appsettings.json",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\appsettings.json",
+              "RelativeToolTip": "Blazor server side 2FA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-25T23:36:46.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Areas_Identity_Pages_Shared__LoginPartial_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\5cdf4d4fe1bef7483bc985709c87b15279fce030\\Areas_Identity_Pages_Shared__LoginPartial_cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5cdf4d4fe1bef7483bc985709c87b15279fce030\\Areas_Identity_Pages_Shared__LoginPartial_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\5cdf4d4fe1bef7483bc985709c87b15279fce030\\Areas_Identity_Pages_Shared__LoginPartial_cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5cdf4d4fe1bef7483bc985709c87b15279fce030\\Areas_Identity_Pages_Shared__LoginPartial_cshtml.g.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwK8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T00:12:14.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shared_NavMenu_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\22e97f11c3ddb00379abe17d0cc3c896892b74cc\\Shared_NavMenu_razor.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\22e97f11c3ddb00379abe17d0cc3c896892b74cc\\Shared_NavMenu_razor.g.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\22e97f11c3ddb00379abe17d0cc3c896892b74cc\\Shared_NavMenu_razor.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\22e97f11c3ddb00379abe17d0cc3c896892b74cc\\Shared_NavMenu_razor.g.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T00:18:03.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Blazor server side 2FA\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-26T00:11:02.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shared_MainLayout_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\e20c93aa241854cefdf6e6b7b81987847d30751a\\Shared_MainLayout_razor.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e20c93aa241854cefdf6e6b7b81987847d30751a\\Shared_MainLayout_razor.g.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\e20c93aa241854cefdf6e6b7b81987847d30751a\\Shared_MainLayout_razor.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e20c93aa241854cefdf6e6b7b81987847d30751a\\Shared_MainLayout_razor.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T00:17:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shared_LoginDisplay_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\4b26b40ff41d7ab377844841b51b73617894c080\\Shared_LoginDisplay_razor.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4b26b40ff41d7ab377844841b51b73617894c080\\Shared_LoginDisplay_razor.g.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\4b26b40ff41d7ab377844841b51b73617894c080\\Shared_LoginDisplay_razor.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4b26b40ff41d7ab377844841b51b73617894c080\\Shared_LoginDisplay_razor.g.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T00:16:26.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pages__Host_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\f446b93e710cafde07d61746f726e5c6bdf16646\\Pages__Host_cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f446b93e710cafde07d61746f726e5c6bdf16646\\Pages__Host_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\AppData\\Local\\Temp\\.vsdbgsrc\\f446b93e710cafde07d61746f726e5c6bdf16646\\Pages__Host_cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f446b93e710cafde07d61746f726e5c6bdf16646\\Pages__Host_cshtml.g.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAkwOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-26T00:15:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\App.razor",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\App.razor",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\App.razor",
+              "RelativeToolTip": "Blazor server side 2FA\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-26T00:07:19.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Program.cs",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Program.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Program.cs",
+              "RelativeToolTip": "Blazor server side 2FA\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T22:54:59.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Pages\\Index.razor",
+              "RelativeToolTip": "Blazor server side 2FA\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:22:31.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RevalidatingIdentityAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "RelativeToolTip": "Blazor server side 2FA\\Areas\\Identity\\RevalidatingIdentityAuthenticationStateProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T23:34:31.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Blazor server side 2FA\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:20:48.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Blazor server side 2FA\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:59:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Blazor server side 2FA\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:19:51.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\_Imports.razor",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\_Imports.razor",
+              "RelativeToolTip": "Blazor server side 2FA\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:36:53.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Blazor server side 2FA\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\Ferdy\\source\\repos\\Blazor server side 2FA\\Blazor server side 2FA\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Blazor server side 2FA\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-25T23:22:04.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
